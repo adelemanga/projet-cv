@@ -1,2 +1,7 @@
 # projet-cv
-Thomas-Fch
+
+
+
+
+
+const liNodeList = document.querySelectorAll("li");
