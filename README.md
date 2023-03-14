@@ -5,4 +5,4 @@ Omar
 ornella
 célia
 
-Tom is a bad guy
+Tom is someone awesome
