@@ -1,4 +1,7 @@
 # projet-cv
+
+ThomasL
+
 Omar
 ornella
 célia
@@ -6,3 +9,8 @@ célia
 Tom is bad
 
 const liNodeList = document.querySelectorAll("li");
+
+Tom is someone awesome
+
+ c'est une catashtrouphm !!
+Envi de chialer
